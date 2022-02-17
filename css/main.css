@@ -261,3 +261,7 @@ textarea {
   }
 }
 
+.nik-demo-row {
+ display: flex;
+ gap: 20px;
+}
